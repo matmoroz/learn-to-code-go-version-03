@@ -36,12 +36,12 @@ func main() {
 		age:   45,
 	}
 
-	fmt.Printf("This VALUE %v is of TYPE %T\n",a,a)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",b,b)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",c,c)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",d,d)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",e,e)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",f,f)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",g,g)
-	fmt.Printf("This VALUE %v is of TYPE %T\n",h,h)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", a, a)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", b, b)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", c, c)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", d, d)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", e, e)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", f, f)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", g, g)
+	fmt.Printf("This VALUE %v is of TYPE %T\n", h, h)
 }
