@@ -8,5 +8,7 @@ github.com/GoesToEleven/puppy v1.2.0 h1:oH8CmnGauWjv0RmtYu2saAwRaB6MOfx6L+SPZnWm
 github.com/GoesToEleven/puppy v1.2.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
 github.com/GoesToEleven/puppy v1.3.0 h1:6kvL9k6x8STNArAn3VVdQAye+5AOM3SbxV0uPdq5xn0=
 github.com/GoesToEleven/puppy v1.3.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
+github.com/matmoroz/puppy v0.0.0-20230506144850-34bdbeb9cee1 h1:9jQ9veGifEc3eMsk2YatbzXE6dGMI29ufglJ0LORvo8=
+github.com/matmoroz/puppy v0.0.0-20230506144850-34bdbeb9cee1/go.mod h1:IbMVyINN4PIkHQkPOpDqA7nEwt2TOoBWskiAtooHXlU=
 golang.org/x/exp v0.0.0-20230425010034-47ecfdc1ba53 h1:5llv2sWeaMSnA3w2kS57ouQQ4pudlXrR0dCgw51QK9o=
 golang.org/x/exp v0.0.0-20230425010034-47ecfdc1ba53/go.mod h1:V1LtkGg67GoY2N1AnLN78QLrzxkLyJw7RJb1gzOOz9w=
